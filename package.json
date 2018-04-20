@@ -1,0 +1,27 @@
+{
+  "name": "portfolio",
+  "version": "0.1.0",
+  "private": true,
+  "homepage": "https://cyberinferno.github.io/",
+  "dependencies": {
+    "bootstrap": "4.0.0",
+    "devicons": "^1.8.0",
+    "font-awesome": "^4.7.0",
+    "gh-pages": "^1.1.0",
+    "jquery": "3.3.1",
+    "jquery.easing": "^1.4.1",
+    "popper.js": "^1.14.3",
+    "react": "^16.3.2",
+    "react-dom": "^16.3.2",
+    "react-scripts": "1.1.4",
+    "simple-line-icons": "^2.4.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "predeploy": "yarn build",
+    "deploy": "gh-pages --repo https://github.com/cyberinferno/cyberinferno.github.io.git -d build",
+    "eject": "react-scripts eject"
+  }
+}
