@@ -6,7 +6,7 @@ class Interests extends Component {
         <div className="my-auto">
           <h2 className="mb-5">Interests</h2>
           <p>
-            Apart from being a web developer, I enjoy most of my time playing onnline computer games. I am a veteran MMORPG gamer who
+            Apart from being a web developer, I enjoy most of my time playing online computer games. I am a veteran MMORPG gamer who
             also enjoys MOBA too when time permits. I play titles like Guild Wars 2, Skyforge, Mu Legend and Dota 2.
           </p>
           <p className="mb-0">
